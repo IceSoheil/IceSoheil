@@ -12,11 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
 </div>
 
-<!-- Vous pouvez également utiliser une version plus grande des icônes -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="C logo" />
-</div>
-
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=IceSoheil&show_icons=true&theme=radical)
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=IceSoheil&layout=compact&theme=radical)
