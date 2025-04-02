@@ -1,8 +1,17 @@
 ## Hi there 👋
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+<!-- Style "for-the-badge" (plus grand) -->
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+<!-- Style "plastic" -->
+![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+
+<!-- Style "social" -->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=social&logo=python&logoColor=black)
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=IceSoheil&show_icons=true&theme=radical)
 
