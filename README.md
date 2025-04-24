@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Langages de programmation que j'ai déjà utilisés
+### Languages already used
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
   <img width="12" />
@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
 </div>
 
-### Frameworks et bibliothèques
+### Frameworks & Libraries
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js logo" />
 </div>
 
-### Outils de développement
+### Development tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
 </div>
 
-### Statistiques GitHub
+### Statistics GitHub
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=IceSoheil&show_icons=true&theme=radical)
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=IceSoheil&layout=compact&theme=radical)
